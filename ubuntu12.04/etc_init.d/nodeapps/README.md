@@ -1,4 +1,4 @@
-Configuring A Node App as A Service
+Configuring A Node App As A Service
 ==============================================
 
 Configure a node app as a service
@@ -12,6 +12,7 @@ Configure a node app as a service
     $ ls /etc/init.d
 
     $ sudo service app_name [start/stop/restart]
+
 
 
 update `config_node_app`
@@ -40,6 +41,6 @@ update `config_node_app`
     PIDFILE=""
     LOGFILE=""
     MIN_UPTIME=""
+    SPIN_SLEEP_TIME=""
 
 
-	SPIN_SLEEP_TIME=""
