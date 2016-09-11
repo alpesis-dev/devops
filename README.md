@@ -6,3 +6,8 @@ Virtual Machine
 
 - [vagrant](./vagrant)
 - [docker](./docker)
+
+IDE
+-----------------------------
+
+- [vim](./vim)

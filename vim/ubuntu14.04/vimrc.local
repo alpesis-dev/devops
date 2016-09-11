@@ -1,0 +1,10 @@
+" vimrc.local: /etc/vim/vimrc.local
+" paste this file at /etc/vim/vimrc.local on ubuntu
+
+" set row number
+set number
+
+" set colorscheme
+" search the color scheme: $ ls -la /usr/share/vim/vim74/colors/
+colorscheme desert 
+
